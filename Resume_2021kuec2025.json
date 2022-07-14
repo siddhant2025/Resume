@@ -1,0 +1,79 @@
+{
+    "basics": {
+        "name": "Siddhant Kumar",
+        "label": "Student",
+        "picture": "",
+        "email": "2021kuec2025@iiitkota.ac.in",
+        "phone": "+9631800139",
+        "website": "",
+        "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in  Electronics and Communication engineering. Building awesome WebApp.",
+        "location": {
+            "address": "Kankarbagh",
+            "postalCode": "800020",
+            "city": "Patna",
+            "countryCode": " India",
+            "region": "Bihar"
+        },
+        "profiles": [
+           
+            {
+                "network": "Github",
+                "username": "Siddhant2025",
+                "url": "https://www.github.com/siddhant2025"
+            },
+            {
+                "network": "",
+                "username": "",
+                "url": ""
+            },
+            {
+                "network": "",
+                "username": "r",
+                "url": ""
+            }
+        ]
+    },
+  
+    "education": [
+        {
+            "institution": "Indian Institute of Information Technology,Kota",
+            "area": "Engineering",
+            "studyType": "Bachelor (hons)",
+            "startDate": "",
+            "endDate": "",
+            "gpa": "7.44",
+            "courses": [
+                "Electronics and Communication Engineering"
+            ]
+        }
+    ],
+  
+    "skills": [
+        {
+            "name": "Full Stack Development",
+            "level": "Beginner",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "C"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+      
+        {
+            "name": "Playing",
+            "keywords": [
+                "Chess",
+                "Badminton", 
+                "Cricket"
+            ]
+        }
+    ]
+}
